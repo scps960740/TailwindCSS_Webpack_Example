@@ -6,7 +6,7 @@ import { a } from './a'
 // console.log($.ajax)
 
 // TODO del
-console.log(a)
+console.log(a, PRODUCTION)
 
 class Test {
   #a = 100
